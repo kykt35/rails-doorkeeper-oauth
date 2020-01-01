@@ -70,3 +70,4 @@ gem 'doorkeeper'
 gem 'omniauth'
 gem 'oauth2'
 gem 'doorkeeper-jwt'
+gem "omniauth-rails_csrf_protection"
